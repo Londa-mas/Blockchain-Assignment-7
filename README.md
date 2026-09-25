@@ -16,8 +16,8 @@ This repository contains the core consensus engine and node simulation framework
 ## Installation & Running
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Londa-mas/SimpleBlockchain.git](https://github.com/Londa-mas/SimpleBlockchain.git)
-   cd SimpleBlockchain
+   git clone [https://github.com/Londa-mas/Blockchain-Assignment-7.git](https://github.com/Londa-mas/Blockchain-Assignment-7.git)
+   cd Blockchain-Assignment-7
    ```
 2. Verify Python 3.10+ (pure standard library implementation; no external dependencies required).
 3. Run the end-to-end fork scenario simulation:
